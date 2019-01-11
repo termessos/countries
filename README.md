@@ -1,2 +1,2 @@
 # countries
-List of countries in the world
+List of countries
