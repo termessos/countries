@@ -1,0 +1,1533 @@
+%YAML 1.1
+---
+-
+  a2: "AF"
+  a3: "AFG"
+  name: "Afghanistan"
+  latitude: 33
+  longitude: 65
+-
+  a2: "EG"
+  a3: "EGY"
+  name: "Ägypten"
+  latitude: 27
+  longitude: 30
+-
+  a2: "AX"
+  a3: "ALA"
+  name: "Ålandinseln"
+  latitude: 60.258878
+  longitude: 19.2272767
+-
+  a2: "AL"
+  a3: "ALB"
+  name: "Albanien"
+  latitude: 41
+  longitude: 20
+-
+  a2: "DZ"
+  a3: "DZA"
+  name: "Algerien"
+  latitude: 28
+  longitude: 3
+-
+  a2: "AS"
+  a3: "ASM"
+  name: "Amerikanisch-Samoa"
+  latitude: -14.33
+  longitude: -170
+-
+  a2: "VI"
+  a3: "VIR"
+  name: "Amerikanische Jungferninseln"
+  latitude: 18.33
+  longitude: -64.83
+-
+  a2: "UM"
+  a3: "UMI"
+  name: "Amerikanische Überseeinseln"
+  latitude: 19.28
+  longitude: 166.6
+-
+  a2: "AD"
+  a3: "AND"
+  name: "Andorra"
+  latitude: 42.5
+  longitude: 1.5
+-
+  a2: "AO"
+  a3: "AGO"
+  name: "Angola"
+  latitude: -12.5
+  longitude: 18.5
+-
+  a2: "AI"
+  a3: "AIA"
+  name: "Anguilla"
+  latitude: 18.25
+  longitude: -63.17
+-
+  a2: "AQ"
+  a3: "ATA"
+  name: "Antarktis"
+  latitude: -90
+  longitude: 0
+-
+  a2: "AG"
+  a3: "ATG"
+  name: "Antigua und Barbuda"
+  latitude: 17.05
+  longitude: -61.8
+-
+  a2: "GQ"
+  a3: "GNQ"
+  name: "Äquatorialguinea"
+  latitude: 2
+  longitude: 10
+-
+  a2: "AR"
+  a3: "ARG"
+  name: "Argentinien"
+  latitude: -34
+  longitude: -64
+-
+  a2: "AM"
+  a3: "ARM"
+  name: "Armenien"
+  latitude: 40
+  longitude: 45
+-
+  a2: "AW"
+  a3: "ABW"
+  name: "Aruba"
+  latitude: 12.5
+  longitude: -69.97
+-
+  a2: "AC"
+  a3: ""
+  name: "Ascension"
+  latitude: -22.9856679
+  longitude: -28.5217201
+-
+  a2: "AZ"
+  a3: "AZE"
+  name: "Aserbaidschan"
+  latitude: 40.5
+  longitude: 47.5
+-
+  a2: "ET"
+  a3: "ETH"
+  name: "Äthiopien"
+  latitude: 8
+  longitude: 38
+-
+  a2: "AU"
+  a3: "AUS"
+  name: "Australien"
+  latitude: -27
+  longitude: 133
+-
+  a2: "BS"
+  a3: "BHS"
+  name: "Bahamas"
+  latitude: 24.25
+  longitude: -76
+-
+  a2: "BH"
+  a3: "BHR"
+  name: "Bahrain"
+  latitude: 26
+  longitude: 50.55
+-
+  a2: "BD"
+  a3: "BGD"
+  name: "Bangladesch"
+  latitude: 24
+  longitude: 90
+-
+  a2: "BB"
+  a3: "BRB"
+  name: "Barbados"
+  latitude: 13.17
+  longitude: -59.53
+-
+  a2: "BY"
+  a3: "BLR"
+  name: "Belarus"
+  latitude: 53
+  longitude: 28
+-
+  a2: "BE"
+  a3: "BEL"
+  name: "Belgien"
+  latitude: 50.83
+  longitude: 4
+-
+  a2: "BZ"
+  a3: "BLZ"
+  name: "Belize"
+  latitude: 17.25
+  longitude: -88.75
+-
+  a2: "BJ"
+  a3: "BEN"
+  name: "Benin"
+  latitude: 9.5
+  longitude: 2.25
+-
+  a2: "BM"
+  a3: "BMU"
+  name: "Bermuda"
+  latitude: 32.33
+  longitude: -64.75
+-
+  a2: "BT"
+  a3: "BTN"
+  name: "Bhutan"
+  latitude: 27.5
+  longitude: 90.5
+-
+  a2: "BO"
+  a3: "BOL"
+  name: "Bolivien"
+  latitude: -17
+  longitude: -65
+-
+  a2: "BQ"
+  a3: "BES"
+  name: "Bonaire, Sint Eustatius und Saba"
+  latitude: 12.201890
+  longitude: -68.262383
+-
+  a2: "BA"
+  a3: "BIH"
+  name: "Bosnien und Herzegowina"
+  latitude: 44
+  longitude: 18
+-
+  a2: "BW"
+  a3: "BWA"
+  name: "Botsuana"
+  latitude: -22
+  longitude: 24
+-
+  a2: "BR"
+  a3: "BRA"
+  name: "Brasilien"
+  latitude: -10
+  longitude: -55
+-
+  a2: "VG"
+  a3: "VGB"
+  name: "Britische Jungferninseln"
+  latitude: 18.5
+  longitude: -64.5
+-
+  a2: "IO"
+  a3: "IOT"
+  name: "Britisches Territorium im Indischen Ozean"
+  latitude: -6
+  longitude: 71.5
+-
+  a2: "BN"
+  a3: "BRN"
+  name: "Brunei Darussalam"
+  latitude: 4.5
+  longitude: 114.67
+-
+  a2: "BG"
+  a3: "BGR"
+  name: "Bulgarien"
+  latitude: 43
+  longitude: 25
+-
+  a2: "BF"
+  a3: "BFA"
+  name: "Burkina Faso"
+  latitude: 13
+  longitude: -2
+-
+  a2: "BI"
+  a3: "BDI"
+  name: "Burundi"
+  latitude: -3.5
+  longitude: 30
+-
+  a2: "CV"
+  a3: "CPV"
+  name: "Cabo Verde"
+  latitude: 16
+  longitude: -24
+-
+  a2: "EA"
+  a3: ""
+  name: "Ceuta und Melilla"
+  latitude: 35.2862811
+  longitude: -2.9620361
+-
+  a2: "CL"
+  a3: "CHL"
+  name: "Chile"
+  latitude: -30
+  longitude: -71
+-
+  a2: "CN"
+  a3: "CHN"
+  name: "China"
+  latitude: 35
+  longitude: 105
+-
+  a2: "CK"
+  a3: "COK"
+  name: "Cookinseln"
+  latitude: -21.23
+  longitude: -159.77
+-
+  a2: "CR"
+  a3: "CRI"
+  name: "Costa Rica"
+  latitude: 10
+  longitude: -84
+-
+  a2: "CI"
+  a3: "CIV"
+  name: "Côte d’Ivoire"
+  latitude: 8
+  longitude: -5
+-
+  a2: "CW"
+  a3: "CUW"
+  name: "Curaçao"
+  latitude: 12.2077333
+  longitude: -69.4934829
+-
+  a2: "DK"
+  a3: "DNK"
+  name: "Dänemark"
+  latitude: 56
+  longitude: 10
+-
+  a2: "DE"
+  a3: "DEU"
+  name: "Deutschland"
+  latitude: 51
+  longitude: 9
+-
+  a2: "DG"
+  a3: ""
+  name: "Diego Garcia"
+  latitude: -7.3432227
+  longitude: 72.3588798
+-
+  a2: "DM"
+  a3: "DMA"
+  name: "Dominica"
+  latitude: 15.42
+  longitude: -61.33
+-
+  a2: "DO"
+  a3: "DOM"
+  name: "Dominikanische Republik"
+  latitude: 19
+  longitude: -70.67
+-
+  a2: "DJ"
+  a3: "DJI"
+  name: "Dschibuti"
+  latitude: 11.5
+  longitude: 43
+-
+  a2: "EC"
+  a3: "ECU"
+  name: "Ecuador"
+  latitude: -2
+  longitude: -77.5
+-
+  a2: "SV"
+  a3: "SLV"
+  name: "El Salvador"
+  latitude: 13.83
+  longitude: -88.92
+-
+  a2: "ER"
+  a3: "ERI"
+  name: "Eritrea"
+  latitude: 15
+  longitude: 39
+-
+  a2: "EE"
+  a3: "EST"
+  name: "Estland"
+  latitude: 59
+  longitude: 26
+-
+  a2: "EZ"
+  a3: ""
+  name: "Eurozone"
+  latitude: -22.3674054
+  longitude: 40.3290638
+-
+  a2: "FK"
+  a3: "FLK"
+  name: "Falklandinseln"
+  latitude: -51.75
+  longitude: -59
+-
+  a2: "FO"
+  a3: "FRO"
+  name: "Färöer"
+  latitude: 62
+  longitude: -7
+-
+  a2: "FJ"
+  a3: "FJI"
+  name: "Fidschi"
+  latitude: -18
+  longitude: 175
+-
+  a2: "FI"
+  a3: "FIN"
+  name: "Finnland"
+  latitude: 64
+  longitude: 26
+-
+  a2: "FR"
+  a3: "FRA"
+  name: "Frankreich"
+  latitude: 46
+  longitude: 2
+-
+  a2: "GF"
+  a3: "GUF"
+  name: "Französisch-Guayana"
+  latitude: 4
+  longitude: -53
+-
+  a2: "PF"
+  a3: "PYF"
+  name: "Französisch-Polynesien"
+  latitude: -15
+  longitude: -140
+-
+  a2: "TF"
+  a3: "ATF"
+  name: "Französische Süd- und Antarktisgebiete"
+  latitude: -43
+  longitude: 67
+-
+  a2: "GA"
+  a3: "GAB"
+  name: "Gabun"
+  latitude: -1
+  longitude: 11.75
+-
+  a2: "GM"
+  a3: "GMB"
+  name: "Gambia"
+  latitude: 13.47
+  longitude: -16.57
+-
+  a2: "GE"
+  a3: "GEO"
+  name: "Georgien"
+  latitude: 42
+  longitude: 43.5
+-
+  a2: "GH"
+  a3: "GHA"
+  name: "Ghana"
+  latitude: 8
+  longitude: -2
+-
+  a2: "GI"
+  a3: "GIB"
+  name: "Gibraltar"
+  latitude: 36.18
+  longitude: -5.37
+-
+  a2: "GD"
+  a3: "GRD"
+  name: "Grenada"
+  latitude: 12.12
+  longitude: -61.67
+-
+  a2: "GR"
+  a3: "GRC"
+  name: "Griechenland"
+  latitude: 39
+  longitude: 22
+-
+  a2: "GL"
+  a3: "GRL"
+  name: "Grönland"
+  latitude: 72
+  longitude: -40
+-
+  a2: "GP"
+  a3: "GLP"
+  name: "Guadeloupe"
+  latitude: 16.25
+  longitude: -61.58
+-
+  a2: "GU"
+  a3: "GUM"
+  name: "Guam"
+  latitude: 13.47
+  longitude: 144.78
+-
+  a2: "GT"
+  a3: "GTM"
+  name: "Guatemala"
+  latitude: 15.5
+  longitude: -90.25
+-
+  a2: "GG"
+  a3: "GGY"
+  name: "Guernsey"
+  latitude: 49.4630442
+  longitude: -2.6581519
+-
+  a2: "GN"
+  a3: "GIN"
+  name: "Guinea"
+  latitude: 11
+  longitude: -10
+-
+  a2: "GW"
+  a3: "GNB"
+  name: "Guinea-Bissau"
+  latitude: 12
+  longitude: -15
+-
+  a2: "GY"
+  a3: "GUY"
+  name: "Guyana"
+  latitude: 5
+  longitude: -59
+-
+  a2: "HT"
+  a3: "HTI"
+  name: "Haiti"
+  latitude: 19
+  longitude: -72.42
+-
+  a2: "HN"
+  a3: "HND"
+  name: "Honduras"
+  latitude: 15
+  longitude: -86.5
+-
+  a2: "IN"
+  a3: "IND"
+  name: "Indien"
+  latitude: 20
+  longitude: 77
+-
+  a2: "ID"
+  a3: "IDN"
+  name: "Indonesien"
+  latitude: -5
+  longitude: 120
+-
+  a2: "IQ"
+  a3: "IRQ"
+  name: "Irak"
+  latitude: 33
+  longitude: 44
+-
+  a2: "IR"
+  a3: "IRN"
+  name: "Iran"
+  latitude: 32
+  longitude: 53
+-
+  a2: "IE"
+  a3: "IRL"
+  name: "Irland"
+  latitude: 53
+  longitude: -8
+-
+  a2: "IS"
+  a3: "ISL"
+  name: "Island"
+  latitude: 65
+  longitude: -18
+-
+  a2: "IM"
+  a3: "IMN"
+  name: "Isle of Man"
+  latitude: 54.231068
+  longitude: -4.530906
+-
+  a2: "IL"
+  a3: "ISR"
+  name: "Israel"
+  latitude: 31.5
+  longitude: 34.75
+-
+  a2: "IT"
+  a3: "ITA"
+  name: "Italien"
+  latitude: 42.83
+  longitude: 12.83
+-
+  a2: "JM"
+  a3: "JAM"
+  name: "Jamaika"
+  latitude: 18.25
+  longitude: -77.5
+-
+  a2: "JP"
+  a3: "JPN"
+  name: "Japan"
+  latitude: 36
+  longitude: 138
+-
+  a2: "YE"
+  a3: "YEM"
+  name: "Jemen"
+  latitude: 15
+  longitude: 48
+-
+  a2: "JE"
+  a3: "JEY"
+  name: "Jersey"
+  latitude: 49.2122654
+  longitude: -2.2708329
+-
+  a2: "JO"
+  a3: "JOR"
+  name: "Jordanien"
+  latitude: 31
+  longitude: 36
+-
+  a2: "KY"
+  a3: "CYM"
+  name: "Kaimaninseln"
+  latitude: 19.5
+  longitude: -80.5
+-
+  a2: "KH"
+  a3: "KHM"
+  name: "Kambodscha"
+  latitude: 13
+  longitude: 105
+-
+  a2: "CM"
+  a3: "CMR"
+  name: "Kamerun"
+  latitude: 6
+  longitude: 12
+-
+  a2: "CA"
+  a3: "CAN"
+  name: "Kanada"
+  latitude: 60
+  longitude: -95
+-
+  a2: "IC"
+  a3: ""
+  name: "Kanarische Inseln"
+  latitude: 28.4260613
+  longitude: -18.0971522
+-
+  a2: "KZ"
+  a3: "KAZ"
+  name: "Kasachstan"
+  latitude: 48
+  longitude: 68
+-
+  a2: "QA"
+  a3: "QAT"
+  name: "Katar"
+  latitude: 25.5
+  longitude: 51.25
+-
+  a2: "KE"
+  a3: "KEN"
+  name: "Kenia"
+  latitude: 1
+  longitude: 38
+-
+  a2: "KG"
+  a3: "KGZ"
+  name: "Kirgisistan"
+  latitude: 41
+  longitude: 75
+-
+  a2: "KI"
+  a3: "KIR"
+  name: "Kiribati"
+  latitude: 1.42
+  longitude: 173
+-
+  a2: "CC"
+  a3: "CCK"
+  name: "Kokosinseln"
+  latitude: -12.5
+  longitude: 96.83
+-
+  a2: "CO"
+  a3: "COL"
+  name: "Kolumbien"
+  latitude: 4
+  longitude: -72
+-
+  a2: "KM"
+  a3: "COM"
+  name: "Komoren"
+  latitude: -12.17
+  longitude: 44.25
+-
+  a2: "CG"
+  a3: "COG"
+  name: "Kongo-Brazzaville"
+  latitude: -1
+  longitude: 15
+-
+  a2: "CD"
+  a3: "COD"
+  name: "Kongo-Kinshasa"
+  latitude: 0
+  longitude: 25
+-
+  a2: "XK"
+  a3: "XKX"
+  name: "Kosovo"
+  latitude: 42.5571984
+  longitude: 19.7809767
+-
+  a2: "HR"
+  a3: "HRV"
+  name: "Kroatien"
+  latitude: 45.17
+  longitude: 15.5
+-
+  a2: "CU"
+  a3: "CUB"
+  name: "Kuba"
+  latitude: 21.5
+  longitude: -80
+-
+  a2: "KW"
+  a3: "KWT"
+  name: "Kuwait"
+  latitude: 29.34
+  longitude: 47.66
+-
+  a2: "LA"
+  a3: "LAO"
+  name: "Laos"
+  latitude: 18
+  longitude: 105
+-
+  a2: "LS"
+  a3: "LSO"
+  name: "Lesotho"
+  latitude: -29.5
+  longitude: 28.5
+-
+  a2: "LV"
+  a3: "LVA"
+  name: "Lettland"
+  latitude: 57
+  longitude: 25
+-
+  a2: "LB"
+  a3: "LBN"
+  name: "Libanon"
+  latitude: 33.83
+  longitude: 35.83
+-
+  a2: "LR"
+  a3: "LBR"
+  name: "Liberia"
+  latitude: 6.5
+  longitude: -9.5
+-
+  a2: "LY"
+  a3: "LBY"
+  name: "Libyen"
+  latitude: 25
+  longitude: 17
+-
+  a2: "LI"
+  a3: "LIE"
+  name: "Liechtenstein"
+  latitude: 47.17
+  longitude: 9.53
+-
+  a2: "LT"
+  a3: "LTU"
+  name: "Litauen"
+  latitude: 56
+  longitude: 24
+-
+  a2: "LU"
+  a3: "LUX"
+  name: "Luxemburg"
+  latitude: 49.75
+  longitude: 6.17
+-
+  a2: "MG"
+  a3: "MDG"
+  name: "Madagaskar"
+  latitude: -20
+  longitude: 47
+-
+  a2: "MW"
+  a3: "MWI"
+  name: "Malawi"
+  latitude: -13.5
+  longitude: 34
+-
+  a2: "MY"
+  a3: "MYS"
+  name: "Malaysia"
+  latitude: 2.5
+  longitude: 112.5
+-
+  a2: "MV"
+  a3: "MDV"
+  name: "Malediven"
+  latitude: 3.25
+  longitude: 73
+-
+  a2: "ML"
+  a3: "MLI"
+  name: "Mali"
+  latitude: 17
+  longitude: -4
+-
+  a2: "MT"
+  a3: "MLT"
+  name: "Malta"
+  latitude: 35.83
+  longitude: 14.58
+-
+  a2: "MA"
+  a3: "MAR"
+  name: "Marokko"
+  latitude: 32
+  longitude: -5
+-
+  a2: "MH"
+  a3: "MHL"
+  name: "Marshallinseln"
+  latitude: 9
+  longitude: 168
+-
+  a2: "MQ"
+  a3: "MTQ"
+  name: "Martinique"
+  latitude: 14.67
+  longitude: -61
+-
+  a2: "MR"
+  a3: "MRT"
+  name: "Mauretanien"
+  latitude: 20
+  longitude: -12
+-
+  a2: "MU"
+  a3: "MUS"
+  name: "Mauritius"
+  latitude: -20.28
+  longitude: 57.55
+-
+  a2: "YT"
+  a3: "MYT"
+  name: "Mayotte"
+  latitude: -12.83
+  longitude: 45.17
+-
+  a2: "MK"
+  a3: "MKD"
+  name: "Mazedonien"
+  latitude: 41.83
+  longitude: 22
+-
+  a2: "MX"
+  a3: "MEX"
+  name: "Mexiko"
+  latitude: 23
+  longitude: -102
+-
+  a2: "FM"
+  a3: "FSM"
+  name: "Mikronesien"
+  latitude: 6.92
+  longitude: 158.25
+-
+  a2: "MC"
+  a3: "MCO"
+  name: "Monaco"
+  latitude: 43.73
+  longitude: 7.4
+-
+  a2: "MN"
+  a3: "MNG"
+  name: "Mongolei"
+  latitude: 46
+  longitude: 105
+-
+  a2: "ME"
+  a3: "MNE"
+  name: "Montenegro"
+  latitude: 42
+  longitude: 19
+-
+  a2: "MS"
+  a3: "MSR"
+  name: "Montserrat"
+  latitude: 16.75
+  longitude: -62.2
+-
+  a2: "MZ"
+  a3: "MOZ"
+  name: "Mosambik"
+  latitude: -18.25
+  longitude: 35
+-
+  a2: "MM"
+  a3: "MMR"
+  name: "Myanmar"
+  latitude: 22
+  longitude: 98
+-
+  a2: "NA"
+  a3: "NAM"
+  name: "Namibia"
+  latitude: -22
+  longitude: 17
+-
+  a2: "NR"
+  a3: "NRU"
+  name: "Nauru"
+  latitude: -0.53
+  longitude: 166.92
+-
+  a2: "NP"
+  a3: "NPL"
+  name: "Nepal"
+  latitude: 28
+  longitude: 84
+-
+  a2: "NC"
+  a3: "NCL"
+  name: "Neukaledonien"
+  latitude: -21.5
+  longitude: 165.5
+-
+  a2: "NZ"
+  a3: "NZL"
+  name: "Neuseeland"
+  latitude: -41
+  longitude: 174
+-
+  a2: "NI"
+  a3: "NIC"
+  name: "Nicaragua"
+  latitude: 13
+  longitude: -85
+-
+  a2: "NL"
+  a3: "NLD"
+  name: "Niederlande"
+  latitude: 52.5
+  longitude: 5.75
+-
+  a2: "NE"
+  a3: "NER"
+  name: "Niger"
+  latitude: 16
+  longitude: 8
+-
+  a2: "NG"
+  a3: "NGA"
+  name: "Nigeria"
+  latitude: 10
+  longitude: 8
+-
+  a2: "NU"
+  a3: "NIU"
+  name: "Niue"
+  latitude: -19.03
+  longitude: -169.87
+-
+  a2: "KP"
+  a3: "PRK"
+  name: "Nordkorea"
+  latitude: 40
+  longitude: 127
+-
+  a2: "NF"
+  a3: "NFK"
+  name: "Norfolkinsel"
+  latitude: -29.03
+  longitude: 167.95
+-
+  a2: "NO"
+  a3: "NOR"
+  name: "Norwegen"
+  latitude: 62
+  longitude: 10
+-
+  a2: "MP"
+  a3: "MNP"
+  name: "Nördliche Marianen"
+  latitude: 15.2
+  longitude: 145.75
+-
+  a2: "OM"
+  a3: "OMN"
+  name: "Oman"
+  latitude: 21
+  longitude: 57
+-
+  a2: "TL"
+  a3: "TLS"
+  name: "Osttimor"
+  latitude: -8.674213
+  longitude: 125.882807
+-
+  a2: "AT"
+  a3: "AUT"
+  name: "Österreich"
+  latitude: 47.33
+  longitude: 13.33
+-
+  a2: "PK"
+  a3: "PAK"
+  name: "Pakistan"
+  latitude: 30
+  longitude: 70
+-
+  a2: "PS"
+  a3: "PSE"
+  name: "Palästinensische Autonomiegebiete"
+  latitude: 32
+  longitude: 35.25
+-
+  a2: "PW"
+  a3: "PLW"
+  name: "Palau"
+  latitude: 7.5
+  longitude: 134.5
+-
+  a2: "PA"
+  a3: "PAN"
+  name: "Panama"
+  latitude: 9
+  longitude: -80
+-
+  a2: "PG"
+  a3: "PNG"
+  name: "Papua-Neuguinea"
+  latitude: -6
+  longitude: 147
+-
+  a2: "PY"
+  a3: "PRY"
+  name: "Paraguay"
+  latitude: -23
+  longitude: -58
+-
+  a2: "PE"
+  a3: "PER"
+  name: "Peru"
+  latitude: -10
+  longitude: -76
+-
+  a2: "PH"
+  a3: "PHL"
+  name: "Philippinen"
+  latitude: 13
+  longitude: 122
+-
+  a2: "PN"
+  a3: "PCN"
+  name: "Pitcairninseln"
+  latitude: -24.373725
+  longitude: -128.327502
+-
+  a2: "PL"
+  a3: "POL"
+  name: "Polen"
+  latitude: 52
+  longitude: 20
+-
+  a2: "PT"
+  a3: "PRT"
+  name: "Portugal"
+  latitude: 39.5
+  longitude: -8
+-
+  a2: "PR"
+  a3: "PRI"
+  name: "Puerto Rico"
+  latitude: 18.25
+  longitude: -66.5
+-
+  a2: "MD"
+  a3: "MDA"
+  name: "Republik Moldau"
+  latitude: 47
+  longitude: 29
+-
+  a2: "RE"
+  a3: "REU"
+  name: "Réunion"
+  latitude: -21.1
+  longitude: 55.6
+-
+  a2: "RW"
+  a3: "RWA"
+  name: "Ruanda"
+  latitude: -2
+  longitude: 30
+-
+  a2: "RO"
+  a3: "ROU"
+  name: "Rumänien"
+  latitude: 46
+  longitude: 25
+-
+  a2: "RU"
+  a3: "RUS"
+  name: "Russland"
+  latitude: 60
+  longitude: 100
+-
+  a2: "SB"
+  a3: "SLB"
+  name: "Salomonen"
+  latitude: -8
+  longitude: 159
+-
+  a2: "ZM"
+  a3: "ZMB"
+  name: "Sambia"
+  latitude: -15
+  longitude: 30
+-
+  a2: "WS"
+  a3: "WSM"
+  name: "Samoa"
+  latitude: -13.58
+  longitude: -172.33
+-
+  a2: "SM"
+  a3: "SMR"
+  name: "San Marino"
+  latitude: 43.77
+  longitude: 12.42
+-
+  a2: "ST"
+  a3: "STP"
+  name: "São Tomé und Príncipe"
+  latitude: 1
+  longitude: 7
+-
+  a2: "SA"
+  a3: "SAU"
+  name: "Saudi-Arabien"
+  latitude: 25
+  longitude: 45
+-
+  a2: "SE"
+  a3: "SWE"
+  name: "Schweden"
+  latitude: 62
+  longitude: 15
+-
+  a2: "CH"
+  a3: "CHE"
+  name: "Schweiz"
+  latitude: 47
+  longitude: 8
+-
+  a2: "SN"
+  a3: "SEN"
+  name: "Senegal"
+  latitude: 14
+  longitude: -14
+-
+  a2: "RS"
+  a3: "SRB"
+  name: "Serbien"
+  latitude: 44
+  longitude: 21
+-
+  a2: "SC"
+  a3: "SYC"
+  name: "Seychellen"
+  latitude: -4.58
+  longitude: 55.67
+-
+  a2: "SL"
+  a3: "SLE"
+  name: "Sierra Leone"
+  latitude: 8.5
+  longitude: -11.5
+-
+  a2: "ZW"
+  a3: "ZWE"
+  name: "Simbabwe"
+  latitude: -20
+  longitude: 30
+-
+  a2: "SG"
+  a3: "SGP"
+  name: "Singapur"
+  latitude: 1.37
+  longitude: 103.8
+-
+  a2: "SX"
+  a3: "SXM"
+  name: "Sint Maarten"
+  latitude: 18.072431
+  longitude: -63.050396
+-
+  a2: "SK"
+  a3: "SVK"
+  name: "Slowakei"
+  latitude: 48.67
+  longitude: 19.5
+-
+  a2: "SI"
+  a3: "SVN"
+  name: "Slowenien"
+  latitude: 46
+  longitude: 15
+-
+  a2: "SO"
+  a3: "SOM"
+  name: "Somalia"
+  latitude: 10
+  longitude: 49
+-
+  a2: "MO"
+  a3: "MAC"
+  name: "Sonderverwaltungsregion Macau"
+  latitude: 22.17
+  longitude: 113.55
+-
+  a2: "HK"
+  a3: "HKG"
+  name: "Sonderverwaltungszone Hongkong"
+  latitude: 22.25
+  longitude: 114.17
+-
+  a2: "ES"
+  a3: "ESP"
+  name: "Spanien"
+  latitude: 40
+  longitude: -4
+-
+  a2: "SJ"
+  a3: "SJM"
+  name: "Spitzbergen"
+  latitude: 78
+  longitude: 20
+-
+  a2: "LK"
+  a3: "LKA"
+  name: "Sri Lanka"
+  latitude: 7
+  longitude: 81
+-
+  a2: "BL"
+  a3: "BLM"
+  name: "St. Barthélemy"
+  latitude: 17.900403
+  longitude: -62.820297
+-
+  a2: "SH"
+  a3: "SHN"
+  name: "St. Helena"
+  latitude: -15.93
+  longitude: -5.7
+-
+  a2: "KN"
+  a3: "KNA"
+  name: "St. Kitts und Nevis"
+  latitude: 17.33
+  longitude: -62.75
+-
+  a2: "LC"
+  a3: "LCA"
+  name: "St. Lucia"
+  latitude: 13.88
+  longitude: -61.13
+-
+  a2: "MF"
+  a3: "MAF"
+  name: "St. Martin"
+  latitude: 18.074290
+  longitude: -63.045674
+-
+  a2: "PM"
+  a3: "SPM"
+  name: "St. Pierre und Miquelon"
+  latitude: 46.83
+  longitude: -56.33
+-
+  a2: "VC"
+  a3: "VCT"
+  name: "St. Vincent und die Grenadinen"
+  latitude: 13.25
+  longitude: -61.2
+-
+  a2: "SD"
+  a3: "SDN"
+  name: "Sudan"
+  latitude: 15
+  longitude: 30
+-
+  a2: "SR"
+  a3: "SUR"
+  name: "Suriname"
+  latitude: 4
+  longitude: -56
+-
+  a2: "ZA"
+  a3: "ZAF"
+  name: "Südafrika"
+  latitude: -29
+  longitude: 24
+-
+  a2: "GS"
+  a3: "SGS"
+  name: "Südgeorgien und die Südlichen Sandwichinseln"
+  latitude: -54.5
+  longitude: -37
+-
+  a2: "KR"
+  a3: "KOR"
+  name: "Südkorea"
+  latitude: 37
+  longitude: 127.5
+-
+  a2: "SS"
+  a3: "SSD"
+  name: "Südsudan"
+  latitude: 7.7660983
+  longitude: 20.6491937
+-
+  a2: "SZ"
+  a3: "SWZ"
+  name: "Swasiland"
+  latitude: -26.5
+  longitude: 31.5
+-
+  a2: "SY"
+  a3: "SYR"
+  name: "Syrien"
+  latitude: 35
+  longitude: 38
+-
+  a2: "TJ"
+  a3: "TJK"
+  name: "Tadschikistan"
+  latitude: 39
+  longitude: 71
+-
+  a2: "TW"
+  a3: "TWN"
+  name: "Taiwan"
+  latitude: 23.5
+  longitude: 121
+-
+  a2: "TZ"
+  a3: "TZA"
+  name: "Tansania"
+  latitude: -6
+  longitude: 35
+-
+  a2: "TH"
+  a3: "THA"
+  name: "Thailand"
+  latitude: 15
+  longitude: 100
+-
+  a2: "TG"
+  a3: "TGO"
+  name: "Togo"
+  latitude: 8
+  longitude: 1.17
+-
+  a2: "TK"
+  a3: "TKL"
+  name: "Tokelau"
+  latitude: -9
+  longitude: -172
+-
+  a2: "TO"
+  a3: "TON"
+  name: "Tonga"
+  latitude: -20
+  longitude: -175
+-
+  a2: "TT"
+  a3: "TTO"
+  name: "Trinidad und Tobago"
+  latitude: 11
+  longitude: -61
+-
+  a2: "TA"
+  a3: ""
+  name: "Tristan da Cunha"
+  latitude: -37.101683
+  longitude: 12.277804
+-
+  a2: "TD"
+  a3: "TCD"
+  name: "Tschad"
+  latitude: 15
+  longitude: 19
+-
+  a2: "CZ"
+  a3: "CZE"
+  name: "Tschechien"
+  latitude: 49.75
+  longitude: 15.5
+-
+  a2: "TN"
+  a3: "TUN"
+  name: "Tunesien"
+  latitude: 34
+  longitude: 9
+-
+  a2: "TM"
+  a3: "TKM"
+  name: "Turkmenistan"
+  latitude: 40
+  longitude: 60
+-
+  a2: "TC"
+  a3: "TCA"
+  name: "Turks- und Caicosinseln"
+  latitude: 21.75
+  longitude: -71.58
+-
+  a2: "TV"
+  a3: "TUV"
+  name: "Tuvalu"
+  latitude: -8
+  longitude: 178
+-
+  a2: "TR"
+  a3: "TUR"
+  name: "Türkei"
+  latitude: 39
+  longitude: 35
+-
+  a2: "UG"
+  a3: "UGA"
+  name: "Uganda"
+  latitude: 1
+  longitude: 32
+-
+  a2: "UA"
+  a3: "UKR"
+  name: "Ukraine"
+  latitude: 49
+  longitude: 32
+-
+  a2: "HU"
+  a3: "HUN"
+  name: "Ungarn"
+  latitude: 47
+  longitude: 20
+-
+  a2: "UY"
+  a3: "URY"
+  name: "Uruguay"
+  latitude: -33
+  longitude: -56
+-
+  a2: "UZ"
+  a3: "UZB"
+  name: "Usbekistan"
+  latitude: 41
+  longitude: 64
+-
+  a2: "VU"
+  a3: "VUT"
+  name: "Vanuatu"
+  latitude: -16
+  longitude: 167
+-
+  a2: "VA"
+  a3: "VAT"
+  name: "Vatikanstadt"
+  latitude: 41.9
+  longitude: 12.45
+-
+  a2: "VE"
+  a3: "VEN"
+  name: "Venezuela"
+  latitude: 8
+  longitude: -66
+-
+  a2: "AE"
+  a3: "ARE"
+  name: "Vereinigte Arabische Emirate"
+  latitude: 24
+  longitude: 54
+-
+  a2: "US"
+  a3: "USA"
+  name: "Vereinigte Staaten"
+  latitude: 38
+  longitude: -97
+-
+  a2: "GB"
+  a3: "GBR"
+  name: "Vereinigtes Königreich"
+  latitude: 54
+  longitude: -2
+-
+  a2: "UN"
+  a3: ""
+  name: "Vereinte Nationen"
+  latitude: ""
+  longitude: ""
+-
+  a2: "VN"
+  a3: "VNM"
+  name: "Vietnam"
+  latitude: 16
+  longitude: 106
+-
+  a2: "WF"
+  a3: "WLF"
+  name: "Wallis und Futuna"
+  latitude: -13.3
+  longitude: -176.2
+-
+  a2: "CX"
+  a3: "CXR"
+  name: "Weihnachtsinsel"
+  latitude: -10.5
+  longitude: 105.67
+-
+  a2: "EH"
+  a3: "ESH"
+  name: "Westsahara"
+  latitude: 24.5
+  longitude: -13
+-
+  a2: "CF"
+  a3: "CAF"
+  name: "Zentralafrikanische Republik"
+  latitude: 7
+  longitude: 21
+-
+  a2: "CY"
+  a3: "CYP"
+  name: "Zypern"
+  latitude: 35
+  longitude: 33
+...
